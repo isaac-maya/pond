@@ -1,0 +1,8 @@
+pond
+Copyright 2026 the pond authors
+
+This product is licensed under the Apache License, Version 2.0.
+See the LICENSE file for the full text.
+
+Third-party components invoked or bundled by pond are attributed, with their
+licenses, in THIRD_PARTY.md alongside the code that uses them.

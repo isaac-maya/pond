@@ -56,4 +56,9 @@ than the code does once there is code.
 
 ## License
 
-To be decided at first code drop.
+[Apache License 2.0](LICENSE) — the same license as goose and Lima. Permissive,
+with an explicit patent grant.
+
+Note that the guest operating system is a Fedora Linux image, which is a
+collection of packages under their own licenses. Booting an official image does
+not change pond's license; those terms stay inside the VM.
